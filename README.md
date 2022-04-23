@@ -1,6 +1,6 @@
-# titipin_store
+# TITIPIN STORE DEMO
 
-A new Flutter project.
+![muter](./demo/titipin_demo.gif)
 
 ## Getting Started
 
